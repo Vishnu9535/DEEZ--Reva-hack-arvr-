@@ -3,7 +3,7 @@ using UnityEngine.XR;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed = 50.0f; // Adjust the speed as needed
+    public float speed = 500.0f; // Adjust the speed as needed
      public AudioSource alarmSound; // Reference to the AudioSource for the alarm sound
 
     private bool isAlarmRinging = false;
